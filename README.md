@@ -1,4 +1,6 @@
-Hibernate Desktop Application
+##Hibernate Desktop Application
+
+
 Overview
 This desktop application is built on the Hibernate framework, providing a seamless and efficient way to interact with a relational database. Hibernate is a powerful Java framework for data handling and persistence, and this project leverages its capabilities to deliver a robust and user-friendly desktop application.
 
